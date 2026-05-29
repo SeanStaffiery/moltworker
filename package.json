@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@cloudflare/sandbox": "^0.7.20",
-    "@cloudflare/vite-plugin": "^1.31.0",
+    "@cloudflare/vite-plugin": "^1.39.0",
     "@cloudflare/workers-types": "^4.20250109.0",
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
@@ -41,7 +41,7 @@
     "typescript": "^5.9.3",
     "vite": "^6.4.2",
     "vitest": "^4.0.18",
-    "wrangler": "^4.80.0"
+    "wrangler": "^4.95.0"
   },
   "author": "",
   "license": "Apache-2.0",
