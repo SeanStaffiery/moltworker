@@ -20,9 +20,9 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@cloudflare/puppeteer": "^1.0.5",
+    "@cloudflare/puppeteer": "^2.0.0",
     "croner": "^9.1.0",
-    "hono": "^4.13.7",
+    "hono": "^4.13.16",
     "jose": "^6.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -39,7 +39,7 @@
     "oxfmt": "^0.72.0",
     "oxlint": "^1.43.0",
     "typescript": "^5.9.3",
-    "vite": "^8.0.16",
+    "vite": "^8.3.8",
     "vitest": "^5.0.0",
     "wrangler": "^4.149.0"
   },
